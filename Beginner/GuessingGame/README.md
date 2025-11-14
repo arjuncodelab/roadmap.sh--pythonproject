@@ -1,4 +1,4 @@
-# Number Guessing Game (Python)
+(# Number Guessing Game (Python)
 
 This is a simple Python-based number guessing game where the computer randomly selects a number between 1 and 100, and the player tries to guess it within a limited number of attempts. The number of attempts depends on the difficulty level chosen at the beginning of the game.
 
@@ -6,7 +6,7 @@ This is a simple Python-based number guessing game where the computer randomly s
 
 ## Project Link
 Project link here:
-https://roadmap.sh/projects/number-guessing-game
+([Number Guessing Game](https://roadmap.sh/projects/number-guessing-game))
 
 
 ---
