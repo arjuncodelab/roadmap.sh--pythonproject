@@ -34,7 +34,7 @@ If the player guesses correctly within the allowed attempts, the game displays a
 1. Download or clone the project:
 git clone [https://github.com/arjuncodelab/python-project]
 2. Navigate to the project folder:
-cd [Beginner/Guessing Game]
+cd Beginner/Guessing Game
 
 3. Run the script using Python:
 python guessing_game.py
