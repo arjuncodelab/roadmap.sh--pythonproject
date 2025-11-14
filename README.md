@@ -17,8 +17,7 @@ This repository contains various projects categorized by difficulty level:
 
 ### Beginner Projects
 - **Number Guessing Game**: An interactive game where users guess a randomly generated number within a certain number of attempts.
-- **Basic Calculator**: A simple command-line calculator for performing basic arithmetic operations.
-
+- ***
 ### Intermediate Projects
 - ***
 ### Advanced Projects
@@ -26,8 +25,6 @@ This repository contains various projects categorized by difficulty level:
 
 ### Getting Started
 To explore the projects in this repository, clone this repository to your local machine using the following command:
-
-bash
 
 git clone [https://github.com/arjuncodelab/python-project]
 
@@ -47,8 +44,3 @@ I welcome contributions from fellow developers and learners. If you would like t
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-
----
-
-Feel free to customize any sections according to your specific projects, contact information, or personal touch!
