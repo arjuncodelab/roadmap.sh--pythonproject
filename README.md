@@ -24,6 +24,15 @@ This repository contains various projects categorized by difficulty level:
 ### Advanced Projects
 - ***
 
+### Getting Started
+To explore the projects in this repository, clone this repository to your local machine using the following command:
+
+bash
+
+git clone [https://github.com/arjuncodelab/python-project]
+
+Navigate to the respective project directory for setup instructions and to run the projects.
+
 ## Features
 
 - **Readable Code**: All projects are structured with clear, commented code to aid understanding.
