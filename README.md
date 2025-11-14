@@ -1,7 +1,3 @@
-Here’s a suitable description for your repository that holds all your Python projects, ranging from beginner to advanced levels:
-
----
-
 # Python Projects Repository
 
 ## Overview
