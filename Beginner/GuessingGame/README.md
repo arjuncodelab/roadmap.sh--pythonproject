@@ -32,7 +32,7 @@ If the player guesses correctly within the allowed attempts, the game displays a
 ## How to Run the Game
 
 1. Download or clone the project:
-git clone-  https://github.com/arjuncodelab/roadmap.sh--pythonproject/tree/main/Beginner/GuessingGame
+git clone- https://github.com/arjuncodelab/roadmap.sh--pythonproject/tree/main
 2. Navigate to the project folder:
 cd Beginner/Guessing Game
 
