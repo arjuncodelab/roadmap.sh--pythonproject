@@ -1,5 +1,5 @@
 # Number Guessing Game (Python)
-- Sample solution for the [number-guessing-game](https://roadmap.sh/projects/number-guessing-game) challenge from [roadmap.sh](https://roadmap.sh).
+- Sample solution for the [number-guessing-game](https://roadmap.sh/projects/number-guessing-game) challenge from [roadmap.sh](https://roadmap.sh/projects).
 This is a simple Python-based number guessing game where the computer randomly selects a number between 1 and 100, and the player tries to guess it within a limited number of attempts. The number of attempts depends on the difficulty level chosen at the beginning of the game.
 
 ---
